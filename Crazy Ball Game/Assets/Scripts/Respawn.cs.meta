@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ba7d5f4b408c2014c961bba2191e8ab6
+timeCreated: 1502887359
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ballPrefab: {fileID: 1000012208595442, guid: a42ddaf5abe351a4f87120bf8f916409,
+      type: 2}
+  - cameraPrefab: {fileID: 20000010779315668, guid: 0aabc9a56c6eac44a80187410448e508,
+      type: 2}
+  - lightPrefab: {fileID: 108000010771219880, guid: 6ce8867944027ad48b068437091cf91a,
+      type: 2}
+  - borderPrefab: {fileID: 65000011585479156, guid: b1c3e7266a9b6a14d873ec613ad0aeca,
+      type: 2}
+  - levelTextPrefab: {instanceID: 0}
+  - canvasPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
